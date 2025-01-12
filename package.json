@@ -1,0 +1,19 @@
+{
+  "name": "keccak-roles",
+  "version": "1.0.0",
+  "description": "A simple Node.js script for computing keccak256 of role strings.",
+  "main": "roles.js",
+  "scripts": {
+    "start": "node roles.js"
+  },
+  "keywords": [
+    "keccak256",
+    "roles",
+    "crypto"
+  ],
+  "author": "Yudi",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.0"
+  }
+}
